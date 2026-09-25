@@ -30,9 +30,6 @@ startup.
 
 Both keys can be rebound from the General tab, which links to the vanilla Controls screen.
 
-> Why not Ctrl+H: a `KeyMapping` in 1.21.11 stores a single key and no modifiers, so
-> pressing Ctrl+H also fires whatever is bound to H. The two cannot be told apart.
-
 ## Configuration screen
 
 Five tabs:
