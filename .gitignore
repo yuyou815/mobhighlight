@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+out/
+
+# Minecraft / Fabric 运行期产物
+run/
+logs/
+crash-reports/
+world/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
