@@ -4,8 +4,15 @@
   "version": "${version}",
   "name": "Mob Highlight",
   "description": "为半径内的生物叠加原版发光轮廓，按规则着色，支持模组生物、可视化配置界面。",
-  "authors": [],
+  "authors": [
+    "yuyou815"
+  ],
   "license": "MIT",
+  "contact": {
+    "homepage": "https://github.com/yuyou815/mobhighlight",
+    "sources": "https://github.com/yuyou815/mobhighlight",
+    "issues": "https://github.com/yuyou815/mobhighlight/issues"
+  },
   "environment": "client",
   "entrypoints": {
     "client": [
